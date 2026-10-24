@@ -75,7 +75,6 @@ The analysis is designed to help identify:
 - Seasonal and weekend purchasing patterns.
 - Opportunities to improve customer retention and sales performance.
 
-*Actual findings should be documented after executing the SQL queries against the dataset and validating the Power BI visuals.*
 
 ## 📂 Project Structure
 
@@ -88,7 +87,6 @@ Zepto-vs-Blinkit-Sales-Analysis/
 └── README.md
 ```
 
-*Note: File names may differ slightly in the repository. The dataset files should also be included if they are available and can be shared.*
 
 ## 🚀 How to Use This Project
 
@@ -105,6 +103,3 @@ This project provides practice in relational database analysis, SQL-based busine
 
 It also demonstrates how structured data can be transformed into business-focused insights to support analytical decision-making.
 
-## 🙌 Acknowledgment
-
-This repository is an adaptation of an existing Zepto vs Blinkit SQL analysis project. Credit goes to the original project author for the starting materials. Further learning, modifications, and analysis should be documented transparently as they are completed.
